@@ -1,0 +1,19 @@
+{
+  "name": "howdy-blended",
+  "version": "1.0.0",
+  "description": "npm registry first package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blend-ed/howdy-blended.git"
+  },
+  "author": "Blend-ed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blend-ed/howdy-blended/issues"
+  },
+  "homepage": "https://github.com/blend-ed/howdy-blended#readme"
+}

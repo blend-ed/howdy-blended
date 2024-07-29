@@ -1,6 +1,6 @@
 {
   "name": "@blend-ed/howdy-blended",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "npm registry first package test",
   "main": "index.js",
   "scripts": {

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blend-ed/howdy-blended.git"
+    "url": "https://github.com/blend-ed/howdy-blended/tree/howdy-blended.v1"
   },
   "author": "Blend-ed",
   "license": "ISC",

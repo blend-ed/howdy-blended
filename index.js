@@ -3,7 +3,7 @@ function howdy() {
 }
 
 function howdyLog() {
-    return "hello from Blend-ed"
+    console.log("hello from Blend-ed");
 }
 
 module.exports = { howdy, howdyLog };

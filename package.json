@@ -1,5 +1,5 @@
 {
-  "name": "howdy-blended.v1",
+  "name": "@blend-ed/howdy-blended.v1",
   "version": "1.0.0",
   "description": "npm registry first package test",
   "main": "index.js",
